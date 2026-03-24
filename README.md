@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Umer Fakih
 
-🚀 Senior Backend & Blockchain Engineer | Tech Lead
+🚀 Senior Backend & Blockchain Engineer
 💡 Building scalable systems, AI agents, and Web3 infrastructure
 
 ---
